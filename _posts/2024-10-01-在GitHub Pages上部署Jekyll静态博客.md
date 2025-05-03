@@ -36,7 +36,7 @@ tags:
 2. 在`_config.yml`中添加 `- jekyll-admin`；
 3. 在`Gemfile`中添加 `gem "jekyll-admin"`；
 4. 执行`bundle exec jekyll serve`指令启动 jekyll；
-5. 直接访问 [http://127.0.0.1:4000/admin](http://127.0.0.1:4000/admin) 就可以看到 [Jekyll Admin](https://jekyll.github.io/jekyll-admin) 的使用界面
+5. 直接访问 [http://127.0.0.1:4000/admin](http://127.0.0.1:4000/admin) 就可以看到 [Jekyll Admin](https://jekyll.github.io/jekyll-admin) 的使用界面；
 
 ## 使用主题
 
