@@ -14,5 +14,5 @@ gem "jemoji"
 gem "jekyll-include-cache"
 gem "jekyll-algolia"
 
-gem "rackup"
-gem "jekyll-admin"
+gem "rack", "~> 3.1.7"
+gem "jekyll-admin", "~> 0.11.1"
